@@ -1,18 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> One paragraph statement about the project.
+> 
 
-![screenshot](./app_screenshot.png)
+![screenshot](./Snapshot.png)
 
-Additional description about the project and its features.
 
 ## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
+- HTML5, CSS3
 
 ## Live Demo
 
@@ -21,55 +17,37 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+### To get a local copy up and running follow these simple example steps below:
 
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+1. Copy this website **``https://github.com/Gambit142/HelloMicroverse.git``**
+2. Navigate to the location of the folder in your machine you wish to save this folder:
+**``you@your-Pc-name:~$ cd <folder>``**
+3. Clone this repository or download the Zip folder:
+**``git clone github.com/Gambit142/HelloMicroverse.git``**
+4. Change Directory into the cloned repository: **``you@your-Pc-name:~$ cd HelloMicroverse``**
+5. Open the repository with Visual Code Editor: **``you@your-Pc-name:~$ code .``** or open with any code editor of your choice.
 
 
 ## Authors
 
-👤 **Author1**
+👨🏿 **Francis Ugorji**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Gambit142](https://github.com/Gambit142)
+- LinkedIn: [Francis Ugorji](https://www.linkedin.com/in/francis-ugorji-a567b7168/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Gambit142/HelloMicroverse/issues).
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Kindly give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+Hat tip to [Microverse](https://www.microverse.org/) for the opportunity to learn on their platform
 
 ## 📝 License
 
